@@ -9,12 +9,12 @@ Project to calculate the probability of a theoretical game.
 - A random number generator (between 1-30)
 
 ### Goal: 
-	The last player standing wins (in other words, the other player has run out of lives).
+The last player standing wins (in other words, the other player has run out of lives).
 
 ### Setup:
   Before starting the game, designate one of the dice as the central die, and the other two as roller dice.
 
-	Roll the central die and then record its value. The number shown on the central die is the number of lives each player begins with. Then place the central die at the center of the container; this marks the central point of the board and it serves as a marker for the duration of the game. While playing, you must toss the other two dice 30cm directly above its position. The central dice will not be touched/rolled for the remainder of the game.
+Roll the central die and then record its value. The number shown on the central die is the number of lives each player begins with. Then place the central die at the center of the container; this marks the central point of the board and it serves as a marker for the duration of the game. While playing, you must toss the other two dice 30cm directly above its position. The central dice will not be touched/rolled for the remainder of the game.
 
 ### GamePlay:
 
